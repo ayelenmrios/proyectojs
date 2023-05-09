@@ -21,6 +21,3 @@ if(promedio >= 6){
 } else{
     alert("Lo siento. Tu promedio de " + materia + " es: " + promedio + ". Boludeaste en semana santa.");
 }
-
-
-
